@@ -1,0 +1,11 @@
+
+sentence-transformers
+langchain
+transformers
+faiss-cpu
+matplotlib
+pandas
+python-dotenv
+streamlit
+PyPDF2
+python-docx
